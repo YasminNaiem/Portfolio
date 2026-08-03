@@ -63,12 +63,12 @@ export default function Hero() {
             <div>
               <p className="text-[10px] font-semibold uppercase tracking-wide text-[var(--coral)]">GitHub</p>
               <a
-                href="https://github.com/yourhandle"
+                href="https://github.com/YasminNaiem"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-0.5 block truncate text-sm text-[var(--foreground)] transition hover:text-[var(--coral)]"
               >
-                github.com/yourhandle
+                github.com/YasminNaiem
               </a>
             </div>
           </div>
