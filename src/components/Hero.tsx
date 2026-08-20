@@ -75,7 +75,7 @@ export default function Hero() {
 
           <div className="mt-5 flex flex-wrap gap-3">
             <a
-  href="/Yasmin_Mohamed_CV.pdf"
+  href="/Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
 >
