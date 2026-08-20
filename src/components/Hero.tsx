@@ -74,12 +74,14 @@ export default function Hero() {
           </div>
 
           <div className="mt-5 flex flex-wrap gap-3">
-            <a
+          <a
   href="/Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 rounded-full bg-[#cdad69] px-6 py-3 text-sm font-semibold text-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-[#b99b5d] hover:shadow-lg"
 >
-  My Resume ↗
+  My Resume
+  <span className="text-base">↗</span>
 </a>
           </div>
         </div>
