@@ -52,12 +52,12 @@ export default function Hero() {
             <div>
               <p className="text-[10px] font-semibold uppercase tracking-wide text-[var(--coral)]">LinkedIn</p>
               <a
-                href="https://linkedin.com/in/yasmin-naiem-747785293"
+                href="https://www.linkedin.com/in/yasmin-naiem"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-0.5 block truncate text-sm text-[var(--foreground)] transition hover:text-[var(--coral)]"
               >
-                linkedin.com/in/yasmin-naiem-747785293
+                linkedin.com/in/yasmin-naiem
               </a>
             </div>
             <div>
@@ -75,11 +75,13 @@ export default function Hero() {
 
           <div className="mt-5 flex flex-wrap gap-3">
             <a
-              href="/resume.pdf"
-              className="inline-flex items-center gap-2 rounded-full bg-[var(--coral)] px-6 py-2.5 text-sm font-semibold text-white transition hover:opacity-90"
-            >
-              My Resume ⬇
-            </a>
+  href="/Yasmin_Mohamed_CV.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 rounded-full bg-[var(--coral)] px-6 py-2.5 text-sm font-semibold text-white transition hover:opacity-90"
+>
+  My Resume ↗
+</a>
           </div>
         </div>
       </div>
